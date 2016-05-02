@@ -1,2 +1,2 @@
-# DiningPhilosophersThreadManagementProblem
-This classic problem is an exercise in thread synchronization.
+# Classic-Dining-Philosophers-Problem
+This classic problem is an exercise in thread synchronization in Java.
